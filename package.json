@@ -1,0 +1,13 @@
+{
+  "name": "outlaw-save-program",
+  "version": "1.0.0",
+  "description": "A program for saving outlaws game data",
+  "main": "index.js", 
+  "bin": "index.js",
+  "dependencies": {
+    "date-fns": "^4.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

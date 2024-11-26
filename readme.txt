@@ -1,0 +1,1 @@
+You can place this program folder anywhere on your computer, I recommend C:\Users\<your name>\AppData\Local. Simply create a shortcut of outlaw-save-program.exe and place it on your desktop or anywhere convenient. When you run it, the program will create a "savegames" folder on first use and generate a timestamped folder with your game saves every time you run it.
